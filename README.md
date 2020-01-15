@@ -22,10 +22,10 @@ The blocks can let you attch DFPlayer Mini to micro:bit, let the micro:bit play 
 ## The filesystem in the microSD card
 ![image](images/filesystem.jpg)
 
-## The MP3 player blocks
+## Sample1## The MP3 player blocks
 ![image](images/blocks.jpg)
 
-## Sample1
+
 ![image](images/sample1.jpg)
 
 ## Sample2
